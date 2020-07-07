@@ -1,0 +1,22 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5907
+status: Failed
+feedback:
+  message: |
+    Failed test #2 of 12. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    43
+    Correct output:
+    45
+
+    Your code output:
+    43
+  time: Mon, 06 Jul 2020 23:50:31 UTC
+record: -1
